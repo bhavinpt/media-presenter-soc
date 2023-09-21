@@ -41,3 +41,5 @@ Find the sample output in this repo.
 https://github.com/bhavinpt/media-presenter-soc/assets/117598876/6b30c6f7-43f9-4b2d-9480-e7b6230bee16
 
 
+You can find the Notebook output and project report in this repo.
+The proprietary Verilog files are excluded, but you can find the assembly program at the end of the report.
